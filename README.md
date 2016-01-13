@@ -3,6 +3,8 @@
 For whom is the theme?
 I made this theme thinking on the final user, right now Drupal is forgetting about no hardcore developer, so the idea is to provide a simple theme easy to use and configure.
 
+### this is how we get new contributors.
+
 what if you want to create a simple blog for example??
 
 you have access to the materializecss.com markup and elements.
