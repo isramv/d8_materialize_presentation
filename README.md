@@ -7,6 +7,18 @@ what if you want to create a simple blog for example??
 
 you have access to the materializecss.com markup and elements.
 
+## Demo and drupalcampgdl.com
+
+
+## Theme features.
+
+- Color change.
+
+## Roadmap.
+
+- Be able to change header structure
+- Maybe create a complementary module that provide block entities.
+
 ## The Downsides:
 
 - No Documentation, just a little.
