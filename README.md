@@ -13,14 +13,13 @@ you have access to the materializecss.com markup and elements.
 - I started this theme when Drupal was Beta.
 - Understanding YML files.
 - D8 theme is a mix of D7 theming and D8.
-- You don't have global variables anymore.
+- You don't have "global variables" anymore.
 - drupal\_add\_css and drupal\_add\_js not supported.
 
 ## The Cool stuff:
 
-- twig
+- Twig
 - Services
-- Dependency injection.
 
 ## Useful resources:
 
